@@ -26,3 +26,7 @@
   * Building
   * Unit tests
   * Deployment
+
+* Appendix
+  * Git on the command line
+  * Markdown
