@@ -1,32 +1,23 @@
-# Practical Source Control
+# Summary
 
-* Source Control Overview
-  * Purpose of source control
-  * Practical usage examples
-* Git
-  * Brief history of git
-  * How git works
-    * What is a Repository?
-  * Using git on a single-dev project
-    * Master branch
-    * Commits/reverts/branches
-  * Collaborating with git
-    * Feature/bugfix branches
-* Remote Repository Hosts
-  * GitHub
-  * Why remote hosts?
-  * Pushing/Pulling
-* Collaborating
-  * Projects
-  * Pull requests
-  * Issues
-  * Organizations
-* GitHub Pages
-* Continuous integration
-  * Building
-  * Unit tests
-  * Deployment
 
-* Appendix
-  * Git on the command line
-  * Markdown
+* [Part I - Source Control Overview](part1/README.md)
+  * [Purpose of Source Control](part1/purpose.md)
+  * [Practical Usage Examples](part1/examples.md)
+* [Part II - Git](part2/README.md)
+  * [Brief History of Git](part2/history.md)
+  * [How Git Works](part2/git.md)
+  * [Using Git on a Single-Dev Project](part2/singledev.md)
+  * [Collaborating with Git](part2/git.md)
+* [Part III - Remote Repository Hosts](part3/README.md)
+  * [GitHub](part3/github.md)
+  * [Why Remote Hosts?](part3/remote.md)
+  * [Pushing/Pulling](part3/pushpull.md)
+* [Part IV - Collaborating](part4/README.md)
+  * [Projects](part4/projects.md)
+  * [Pull Requests](part4/pullrequests.md)
+  * [Issues](part4/issues.md)
+  * [Organizations](part4/organizations.md)
+* [Part V - Continuous integration](part5/README.md)
+  * [GitHub Pages](part4/pages.md)
+  * [TravisCI](part4/travis.md)
